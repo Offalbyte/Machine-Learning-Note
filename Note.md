@@ -18,6 +18,6 @@ Classification为**定性输出**，或者说是<font color=Orange>离散变量<
 
 辨识动物种类，Classification。
 
-
+</br>
 
 此外，在Regression和Classification以外，还有另外一类任务Structured Learning（创造），对算法的要求较高！
